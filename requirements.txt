@@ -1,0 +1,10 @@
+flask
+numpy
+requests
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+faiss-cpu  # or faiss-gpu if you're using a GPU
+openai
