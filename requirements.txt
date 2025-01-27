@@ -8,3 +8,4 @@ langchain
 langchain-community
 faiss-cpu  # or faiss-gpu if you're using a GPU
 openai
+tiktoken
